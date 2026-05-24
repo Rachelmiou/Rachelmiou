@@ -10,13 +10,10 @@ cs student at carleton university, currently in the AI & ML stream. I like build
 
 ## things I work with
 
-```
-python   ████████████████████  my go-to
-java     ████████████████████  also my go-to
-sql      ██████████████░░░░░░  getting stronger
-c/c++    ████████████░░░░░░░░  when i need to
-html     ██████████░░░░░░░░░░  enough to be dangerous
-```
+languages: Python, Java, SQL, C, C++, HTML
+cloud & devops: Azure, Terraform, Jenkins, GitHub Actions, CI/CD
+frameworks & tools: React, Vite, Git, REST APIs
+concepts: Object-Oriented Design, Data Structures & Algorithms, Agile Development
 
 **tools & stuff:** Azure, Terraform, Jenkins, GitHub Actions, React, Vite, Git
 
