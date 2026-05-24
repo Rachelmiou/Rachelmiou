@@ -1,10 +1,38 @@
-## 💫 About Me:
-🔭 I’m currently working on a Bachelor's of Computer Science(AI & ML stream)
+# hey, i'm rachel 👋
 
-🌱 I’m currently learning Database management & OOP
+cs student at carleton university, currently in the AI & ML stream. I like building things that solve real problems, breaking things so they work better, and automating anything I have to do twice.
 
-👨‍💻 All of my projects are available at https://github.com/Rachelmiou
+## what i'm up to
 
-💬 Ask me about Python and Java
+- 🎓 working toward my BCS (co-op) at Carleton, graduating April 2028
+- 💼 previously a platform engineering co-op at **Manulife**, where I automated cloud infrastructure and built CI/CD pipelines
+- 🔨 always tinkering with a side project or two
 
-📫 How to reach me rachelthimiou@gmail.com
+## things I work with
+
+```
+python   ████████████████████  my go-to
+java     ████████████████████  also my go-to
+sql      ██████████████░░░░░░  getting stronger
+c/c++    ████████████░░░░░░░░  when i need to
+html     ██████████░░░░░░░░░░  enough to be dangerous
+```
+
+**tools & stuff:** Azure, Terraform, Jenkins, GitHub Actions, React, Vite, Git
+
+## projects i'm proud of
+
+### 💸 spending tracker
+a web app that parses your bank statement CSVs and auto-categorizes your transactions so you can finally see where your money is actually going. built with React + Vite, featuring drag-and-drop uploads, multi-file merging, and a dashboard with sortable tables and visual breakdowns.
+
+### 🔪 among us (python edition)
+a full game engine inspired by Among Us, built from scratch with state machines, role assignment, voting logic, and clean OOP architecture. because why just play the game when you can build it?
+
+## let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rachel--miou-blue?style=flat-square&logo=linkedin)](https://linkedin.com/rachel-miou)
+[![Email](https://img.shields.io/badge/Email-rachelthimiou%40gmail.com-red?style=flat-square&logo=gmail)](mailto:rachelthimiou@gmail.com)
+
+---
+
+*currently looking for my next co-op — if you're building something cool, let's talk* ✨
