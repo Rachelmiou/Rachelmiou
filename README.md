@@ -27,7 +27,7 @@ a full game engine inspired by Among Us, built from scratch with state machines,
 
 ## let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rachel--miou-blue?style=flat-square&logo=linkedin)](https://linkedin.com/rachel-miou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rachel--miou-blue?style=flat-square&logo=linkedin)](linkedin.com/in/rachel-miou-093749297)
 [![Email](https://img.shields.io/badge/Email-rachelthimiou%40gmail.com-red?style=flat-square&logo=gmail)](mailto:rachelthimiou@gmail.com)
 
 ---
